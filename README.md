@@ -21,7 +21,8 @@
 
 * What are the next steps for building this tool: Development of the app.
 
-* Links to additional information: 
+* Links to additional information: https://www.theguardian.com/technology/2014/nov/05/sp-pirate-bay-cofounder-peter-sunde-in-prison
 
-https://www.theguardian.com/technology/2014/nov/05/sp-pirate-bay-cofounder-peter-sunde-in-prison
+<img src="/Sudo Shutdown app.jpg" alt="alt text" width="300px" height="500px">
+<img src="/OSX-TBTW.jpg" alt="alt text" width="1000px" height="600px">
 
