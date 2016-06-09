@@ -26,3 +26,6 @@
 <img src="/Sudo Shutdown app.jpg" alt="alt text" width="300px" height="500px">
 <img src="/OSX-TBTW.jpg" alt="alt text" width="1000px" height="600px">
 
+* Future development: Implementation of the user interface, development of the Python GUI
+
+
